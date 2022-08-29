@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "2b6f0e21f483bf7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "605d2f6e6b2bf33a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bash/bash-functions.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92d9a027e5986a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "c107c3a3ec5caa47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2410eabfc6b74e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ecf3b4ee64aca16c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tmux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff858b32b7e0f1ed",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "right": {
+    "id": "7b0d1366a958c8d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "68af3a6698ed5bce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88414492b13e928c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bash/bash-functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7cfbcc42c5881b7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bash/bash-functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee52da913171000b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "bb18f861e8be4cbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bash/bash-functions.md"
+              }
+            }
+          },
+          {
+            "id": "ca6fde1441006215",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "605d2f6e6b2bf33a",
+  "lastOpenFiles": [
+    "TODO.md",
+    "Python/PySimpleGUIDocs/PySimpleGUI-Template.md",
+    "Python/PySimpleGUIDocs/Button.md",
+    "Bash/bash-functions.md",
+    "Python/Snippets/Keyloging.md",
+    "Python/Snippets/Permutations.md",
+    "Bash/aliases.md",
+    "Youtube/bashVideos.md",
+    "Youtube/PythonVideos.md",
+    "Github/PythonRepositories.md"
+  ]
+}
