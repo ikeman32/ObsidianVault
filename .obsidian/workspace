@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "605d2f6e6b2bf33a",
+        "id": "49424750dbc9b078",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bash/bash-functions.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash/bash-functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash/bash-functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bash/bash-functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,21 +120,28 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f60af66756677b94",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "605d2f6e6b2bf33a",
+  "active": "49424750dbc9b078",
   "lastOpenFiles": [
+    "Bash/bash-functions.md",
     "TODO.md",
     "Python/PySimpleGUIDocs/PySimpleGUI-Template.md",
     "Python/PySimpleGUIDocs/Button.md",
-    "Bash/bash-functions.md",
     "Python/Snippets/Keyloging.md",
     "Python/Snippets/Permutations.md",
     "Bash/aliases.md",
