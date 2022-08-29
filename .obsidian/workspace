@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d3d1b0d2c4d8175f",
+        "id": "302d8c6ac7802dc2",
         "type": "leaf",
         "state": {
           "type": "diff-view",
           "state": {
-            "file": "Python/PySimpleGUIDocs/App-wideConfigSettings.md",
+            "file": ".obsidian/plugins/obsidian-git/data.json",
             "staged": false
           }
         }
