@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "49424750dbc9b078",
+        "id": "d3d1b0d2c4d8175f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "diff-view",
+          "state": {
+            "file": "Python/PySimpleGUIDocs/App-wideConfigSettings.md",
+            "staged": false
+          }
         }
       }
     ],
@@ -136,8 +139,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "49424750dbc9b078",
+  "active": "f60af66756677b94",
   "lastOpenFiles": [
+    "Python/PySimpleGUIDocs/App-wideConfigSettings.md",
     "Bash/bash-functions.md",
     "TODO.md",
     "Python/PySimpleGUIDocs/PySimpleGUI-Template.md",
@@ -146,7 +150,6 @@
     "Python/Snippets/Permutations.md",
     "Bash/aliases.md",
     "Youtube/bashVideos.md",
-    "Youtube/PythonVideos.md",
-    "Github/PythonRepositories.md"
+    "Youtube/PythonVideos.md"
   ]
 }

@@ -11,7 +11,7 @@ Parameter Descriptions:
 | ------------ | ---- | ----------------------------------------- |
 | bytes or str | icon | Either a Base64 byte string or a filename |
 
-```
+```python
 set_options(icon = None,
     button_color = None,
     element_size = (None, None),
